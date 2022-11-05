@@ -12,7 +12,6 @@
             ReimbursementType createdReimbursementType = reimbursementTypeService.createReimbursementType(request);
             resp.setContentType("application/json");
             resp.setStatus(200);
-            resp.getWriter().write("<h1>New reimbursement type has been added successfully!! </h1>");
             resp.getWriter().write(mapper.writeValueAsString(createdReimbursementType.getType_id())); 
             resp.getWriter().write(mapper.writeValueAsString(createdReimbursementType.getType_id()));
         } catch (InvalidSQLException e) {
