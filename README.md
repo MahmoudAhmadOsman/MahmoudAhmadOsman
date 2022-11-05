@@ -33,9 +33,6 @@
                         <!-- <p><b>Instructor: </b>[[${course.instructor}]]</p>-->
                         <p><b>Credits: </b> [[${course.credit}]]</p>
                         <p> [[${course.description}]]</p>
-                        <p>
-                            <a th:href="@{/courses/details/{id}(id=${course.id})}" class="btn btn-primary" role="button">Details</a>
-                        </p>
                     </div>
                 </div>
             </div>
