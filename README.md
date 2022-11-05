@@ -1,4 +1,4 @@
- <h1 align="left">Hi 👋, I'm Mahmoud Osman</h1>
+ <h3 align="left">Hi 👋, I'm Mahmoud Osman</h3>
 <h3 align="center">An experienced, creative & detailed-oriented software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudahmadosman&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudahmadosman" /> </p>
