@@ -4,8 +4,7 @@
 <h3 align="center">An experienced, creative & detailed-oriented software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudahmadosman&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudahmadosman" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
