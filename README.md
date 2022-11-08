@@ -18,7 +18,6 @@
             resp.setStatus(404);
             resp.getWriter().write(mapper.writeValueAsString(e.getMessage()));
         } catch (ResourceConflictException e) {
-            resp.getWriter().write("This reimbursement types doesn't exist!");
             resp.setStatus(409);
         }
 
