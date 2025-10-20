@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Mahmoud Osman</h1>
-<h3 align="center">Full-Stack Developer | Building scalable web apps with React, Node.js, and Express</h3>
+<h3 align="center">Full-Stack Developer | Building scalable web apps with React, Node.js, Express, Java, Springboot, JPA, SQL & Angular</h3>
 
 <p align="center">
   <a href="https://github.com/mahmoudahmadosman">
