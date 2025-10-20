@@ -9,7 +9,7 @@
   <a href="https://github.com/mahmoudahmadosman?tab=followers">
     <img src="https://img.shields.io/github/followers/mahmoudahmadosman?label=Followers&style=flat-square&color=brightgreen" alt="GitHub followers" />
   </a>
-  <a href="mailto:Ibrahim.gaabow1989@gmail.com">
+  <a href="mailto:osman.techy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
@@ -17,6 +17,9 @@
 ---
 
 ### 🧠 About Me
+I'm a passionate **Full-Stack Developer** with a deep love for creating innovative web solutions that make a real impact.  
+My journey in software development spans over **7+ years of experience**, during which I've honed my skills across the entire technology stack — from front-end design to backend architecture and deployment.
+
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 Learning **TypeScript, Next.js, and Express.js automation**  
 - 💡 Passionate about **building scalable and efficient backend systems**  
