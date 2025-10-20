@@ -20,7 +20,6 @@
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 Learning **TypeScript, Next.js, and Express.js automation**  
 - 💡 Passionate about **building scalable and efficient backend systems**  
-- 📫 Reach me at: **Ibrahim.gaabow1989@gmail.com**
 
 ---
 
