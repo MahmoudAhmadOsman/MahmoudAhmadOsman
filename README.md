@@ -20,9 +20,7 @@
 I'm a passionate **Full-Stack Developer** with a deep love for creating innovative web solutions that make a real impact.  
 My journey in software development spans over **7+ years of experience**, during which I've honed my skills across the entire technology stack — from front-end design to backend architecture and deployment.
 
-- 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 Learning **TypeScript, Next.js, and Express.js automation**  
-- 💡 Passionate about **building scalable and efficient backend systems**  
+ 
 
 ---
 
